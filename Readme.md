@@ -30,3 +30,11 @@ Answer: It improves performance by reducing the number of event listeners and al
 Answer: preventDefault() – Stops the default browser action for an event.
 
 * stopPropagation() - Stops the event from bubbling or capturing to parent elements.
+
+
+
+Technology Stack:
+
+HTML
+CSS (Vanilla/Tailwind/DaisyUI)
+JavaScript (Vanilla)
